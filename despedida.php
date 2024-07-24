@@ -1,4 +1,5 @@
 <?php
 
-echo "adios mundo"
+echo "adios mundo";
+echo "prueba";
 ?>
